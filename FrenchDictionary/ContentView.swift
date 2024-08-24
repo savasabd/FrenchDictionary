@@ -13,7 +13,7 @@ struct ContentView: View {
             Button {
                 
             } label: {
-                Text("MyButton111")
+                Text("Sözlük")
                     .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                     .frame(maxWidth:.infinity,maxHeight:80)
                     .background(.blue)
